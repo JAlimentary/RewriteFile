@@ -1,0 +1,6 @@
+F:\ТРПО\RewriterFile\RewriterFile\RewriterFile\bin\Debug\RewriterFile.exe.config
+F:\ТРПО\RewriterFile\RewriterFile\RewriterFile\bin\Debug\RewriterFile.exe
+F:\ТРПО\RewriterFile\RewriterFile\RewriterFile\bin\Debug\RewriterFile.pdb
+F:\ТРПО\RewriterFile\RewriterFile\RewriterFile\obj\Debug\RewriterFile.csprojResolveAssemblyReference.cache
+F:\ТРПО\RewriterFile\RewriterFile\RewriterFile\obj\Debug\RewriterFile.exe
+F:\ТРПО\RewriterFile\RewriterFile\RewriterFile\obj\Debug\RewriterFile.pdb
